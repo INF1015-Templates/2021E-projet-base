@@ -1,0 +1,4 @@
+classroom_tools_url="https://github.com/chosson/ClassroomTools"
+template_repo_fullname="INF1015-Templates/2021E-projet-solution"
+org_name="INF1015-Templates"
+repo_filter="2021E-projet-base"
