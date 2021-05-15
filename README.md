@@ -17,6 +17,7 @@
 - Respecter le guide de codage, les points pertinents pour ce travail sont les mêmes que pour les TD.
 - N’oubliez pas de mettre les entêtes de fichiers (guide point 33).
 - Vous avez le droit d'utiliser des bibliothèques tierces telles que boost, cppitertools, gsl et tclap, mais seulement si leur utilisation n'affecte pas les objectifs pédagogiques du projet. Par exemple, si dans le projet on vous demande de développer un module d'opérations matricielles, vous ne pouvez pas utiliser une bibliothèque d'algèbre linéaire à la place. Toutefois, vous pourriez utiliser boost-format pour faire de l'affichage formaté, vu qu'on ne vous évalue pas particulièrement sur votre capacité à manipuler des string à la main pour formater et que c'est complémentaire à ce qui est déjà présent dans la librairie standard de C++.
+- Dans le dossier *Projet* vous trouverez une solution Visual Studio, un CMakeList et un JSON pour VSCode, tous fonctionnels et configurés pour Vcpkg, mais vous n'êtes pas obligés de vous en servir. Vous gérez vous-même votre environnement de développement. On veut cependant que les fichiers sources soient dans le dossier *Projet* (ou dans ses sous-dossiers).
 
 ## Description du projet
 
