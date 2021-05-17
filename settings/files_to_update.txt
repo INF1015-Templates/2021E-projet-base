@@ -1,3 +1,7 @@
 settings/files_to_update.txt
 
 README.md
+doc/assets/house_map.png
+doc/assets/screenshot_basic_commands.png
+doc/assets/screenshot_basic_nav.png
+doc/assets/screenshot_title_first_cell.png
