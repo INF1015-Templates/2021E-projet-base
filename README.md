@@ -9,7 +9,7 @@
 1. Évaluation finale : Le 17 juin à 18h (créneau de rendez-vous pour chaque équipe)
 
 
-## Directions particulières
+## Directives particulières
 
 - Vous devez suivre les bons principes de programmations appris dans le cours.
 - Le côté artistique visuel n’est pas dans les critères d’évaluation, mais l'implémentation correcte d'une interface en ligne de commande et son utilisabilité le sont.
