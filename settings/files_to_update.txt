@@ -1,7 +1,7 @@
 settings/files_to_update.txt
 
 README.md
-REAMDE_Livrable1.md
+README_Livrable1.md
 doc/assets/house_map_hidden_room.png
 doc/assets/house_map.png
 doc/assets/screenshot_basic_commands.png
